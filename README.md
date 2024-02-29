@@ -19,4 +19,4 @@
 
 <img src="https://img.shields.io/badge/GAN-000000?style=for-the-badge&logo=GAN&logoColor=white"> <img src="https://img.shields.io/badge/CGAN-000000?style=for-the-badge&logo=CGAN&logoColor=white"> <img src="https://img.shields.io/badge/Object Detection-000000?style=for-the-badge&logo=Object Detection&logoColor=white"> <img src="https://img.shields.io/badge/NLP(Seq2Seq, Attention, Transformers)-000000?style=for-the-badge&logo=NLP&logoColor=white"> <img src="https://img.shields.io/badge/reinforce-000000?style=for-the-badge&logo=reinforce&logoColor=white"> <img src="https://img.shields.io/badge/q learning-000000?style=for-the-badge&logo=q learning&logoColor=white">
 
-[![aleksandr95chernykh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandr95chernykh)](https://github.com/aleksandr95chernykh/github-readme-stats&bg_color=00000000)
+[![aleksandr95chernykh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandr95chernykh)](https://github.com/aleksandr95chernykh/github-readme-stats&show_icons=true&theme=dracula)
