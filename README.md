@@ -3,7 +3,7 @@
 > Являюсь начинающим специалистом в области машинного обучения. Мой путь в IT начался в 2022 году, после приобретения курсов «Data Science, нейронные сети, машинное обучение и искусственный интеллект» в Университете искусственного интеллекта. Для меня, Python оказался очень доступным для понимания, функциональным инструментом для работы в сфере ИИ. В процессе обучения понял, что с этим направлением хочу связать свою дальнейшую деятельность.
 * Закончил курсы «Data Science, нейронные сети, машинное обучение и искусственный интеллект» в УИИ.
 * Хочу получить работу по специальности `Data Scientist`
-* Как со мной связаться: [![Mail](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aleksandr95chernykh@mail.ru) [![Telegram Badge](https://img.shields.io/badge/-aleksandr95chernykh-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aleksandr95chernykh)
+* Как со мной связаться: [![Mail](https://img.shields.io/badge/-Mail.ru-blue?style=flat&logo=Mail.ru&logoColor=white)](aleksandr95chernykh@mail.ru) [![Telegram Badge](https://img.shields.io/badge/-aleksandr95chernykh-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aleksandr95chernykh)
 
 :computer:Технологии  
 
